@@ -2,6 +2,7 @@
 
 Assumptions:
     Both programs assume the xs CLI can be accessed with "xs"
+    **Both programs assume that the user is ALREADY signed in to the target space using XS CLI. It makes use of the existing session instead of having to handle login**
 
 Running these programs:
   To delete services, run the program "delete_services.sh"

@@ -10,7 +10,7 @@ Running these programs:
           Running like this will delete all hana services that follow the naming format of the temporary services
           Don't worry, you will be prompted with a (y/n) before the services are actually deleted
   To delete the services of a specific developer run to program "delete_services.sh" with option -d specified like so
-          "dash delete_services.sh -d <dev username>
+          "dash delete_services.sh -d USERNAME"
 
 options:
 -d : this option can be used to search (or delete) a specific developer's services
